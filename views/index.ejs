@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="/stylesheets/style.css">
+  <style>
+    /* Styles for the custom alert box */
+    .custom-alert {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #fff;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+    }
+
+    .custom-alert h2 {
+        margin-top: 0;
+    }
+
+    .custom-alert-buttons {
+        margin-top: 20px;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+<div class="quote-background">
+  <div class="container">
+    <h1><em>Quote of The Day</em></h1>
+    <p class="info"><em>"There are some quotes that I collected in past over few years.</br>You can read the all the quotes"</em></p>
+
+
+    <button id="quotebutton" type="button" class="btn btn-default btn-md" onclick="redirectToQuote()">Quote</button>
+    <p>Like the quote.Tweet to your friends</p>
+    <div id="tutbox" style="display:block"></div>
+    
+    <script>
+    function redirectToQuote(){
+      window.location.href='/quote';
+    }
+    </script>
+  </br>
+  <label for="author">Search For Particular Authors Quote</label>
+  <select name="author" id="author">
+  <option value="Walt Disney">Walt Disney</option>
+  <option value="Arnold Schwarzenegger">Arnold Schwarzenegger</option>
+  <option value="Michael Jordan" selected>Michael Jordan</option>
+  <option value="Elon Musk">Elon Musk</option>
+  <option value="Bodhidharma">Bodhidharma</option>
+  <option value="Robert Frost">Robert Frost</option>
+  <option value="Peter Drucker">Peter Drucker</option>
+  <option value="Richard Bach">Richard Bach</option>
+  <option value="Og Mandino">Og Mandino</option>
+  <option value="Alan Watts">Alan Watts</option>
+  <option value="Vincent van Gogh">Vincent van Gogh</option>
+  <option value="Joan Rivers">Joan Rivers</option>
+  <option value="Lao Tzu">Lao Tzu</option>
+  <option value="Charles Dickens">Charles Dickens</option>
+  <option value="Andrew Carnegie">Andrew Carnegie</option>
+  <option value="Plato">Plato</option>
+  <option value="Criss Jami">Criss Jami</option>
+  <option value="Roy T. Bennett">Roy T. Bennett</option>
+  <option value="Ralph Waldo Emerson">Ralph Waldo Emerson</option>
+  <option value="Robert Greene">Robert Greene</option>
+  <option value="Mae West">Mae West</option>
+  <option value="Ming-Dao Deng">Ming-Dao Deng</option>
+  <option value="Chinese Proverb">Chinese Proverb</option>
+  <option value="Edgar Allan Poe">Edgar Allan Poe</option>
+  <option value="Gilbert Chesterton">Gilbert Chesterton</option>
+  </select>
+  <button id="sendBtn">Search</button>
+
+  <!-- Custom alert box -->
+  <div id="customAlertBox" class="custom-alert">
+    <h2 id="alertHeading">Custom Alert</h2>
+    <p id="alertMessage">This is a custom alert message.</p>
+    <div class="custom-alert-buttons">
+      <button id="okButton">OK</button>
+  </div>
+</div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#sendBtn').click(function() {
+        var selectedItem = $('#author').val();
+        $.ajax({
+          type: "POST",
+          url: "/checkauthor",
+          contentType: "application/json",
+          data: JSON.stringify({ selectedItem: selectedItem }),
+          success: function(response) {
+            openCustomAlert("The Quote is-",response.q);
+          },
+          error: function(xhr, status, error) {
+            openCustomAlert("error","Error sending selection to backend: " + error);
+          }
+        });
+      });
+
+      $('#okButton').click(function() {
+                closeCustomAlert();
+            });
+      function openCustomAlert(heading, message) {
+                document.getElementById("alertHeading").innerText = heading;
+                document.getElementById("alertMessage").innerText = message;
+                document.getElementById("customAlertBox").style.display = "block";
+            }
+
+            function closeCustomAlert() {
+                document.getElementById("customAlertBox").style.display = "none";
+            }
+      
+    });
+  </script>
+  <footer>
+    <p class="text-muted small">Copyright &copy; Made By Mohit</p>
+  </footer>
+</div>
+</div>
+</body>
+</html>

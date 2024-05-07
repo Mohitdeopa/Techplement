@@ -1,0 +1,302 @@
+[
+    {
+    "q": "In three words I can sum up everything I've learned about life: it goes on.",
+    "a": "Robert Frost",
+    "c": "75",
+    "h": "<blockquote>&ldquo;In three words I can sum up everything I've learned about life: it goes on.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>"
+    },
+    {
+    "q": "Management is doing things right; leadership is doing the right things.",
+    "a": "Peter Drucker",
+    "c": "71",
+    "h": "<blockquote>&ldquo;Management is doing things right; leadership is doing the right things.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>"
+    },
+    {
+    "q": "Successful people are not without problems. They're simply people who've learned to solve their problems.",
+    "a": "Earl Nightingale",
+    "c": "105",
+    "h": "<blockquote>&ldquo;Successful people are not without problems. They're simply people who've learned to solve their problems.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>"
+    },
+    {
+    "q": "Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.",
+    "a": "Maxime Lagace",
+    "c": "138",
+    "h": "<blockquote>&ldquo;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>"
+    },
+    {
+    "q": "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.",
+    "a": "Richard Bach",
+    "c": "107",
+    "h": "<blockquote>&ldquo;Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>"
+    },
+    {
+    "q": "The way to love anything is to realize that it may be lost.",
+    "a": "Gilbert Chesterton",
+    "c": "59",
+    "h": "<blockquote>&ldquo;The way to love anything is to realize that it may be lost.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>"
+    },
+    {
+    "q": "Everything is possible. The impossible just takes longer.",
+    "a": "Dan Brown",
+    "c": "57",
+    "h": "<blockquote>&ldquo;Everything is possible. The impossible just takes longer.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>"
+    },
+    {
+    "q": "Convinced myself, I seek not to convince.",
+    "a": "Edgar Allan Poe",
+    "c": "41",
+    "h": "<blockquote>&ldquo;Convinced myself, I seek not to convince.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>"
+    },
+    {
+    "q": "Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. ",
+    "a": "Oprah Winfrey",
+    "c": "135",
+    "h": "<blockquote>&ldquo;Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>"
+    },
+    {
+    "q": "All our dreams can come true, if we have the courage to pursue them.",
+    "a": "Walt Disney",
+    "c": "68",
+    "h": "<blockquote>&ldquo;All our dreams can come true, if we have the courage to pursue them.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>"
+    },
+    {
+    "q": "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+    "a": "Marilyn Monroe",
+    "c": "83",
+    "h": "<blockquote>&ldquo;Keep smiling, because life is a beautiful thing and there's so much to smile about.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>"
+    },
+    {
+    "q": "Knowing others is wisdom, knowing yourself is enlightenment.",
+    "a": "Lao Tzu",
+    "c": "60",
+    "h": "<blockquote>&ldquo;Knowing others is wisdom, knowing yourself is enlightenment.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>"
+    },
+    {
+    "q": "Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.",
+    "a": "Arnold Schwarzenegger",
+    "c": "97",
+    "h": "<blockquote>&ldquo;Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>"
+    },
+    {
+    "q": "Tomorrow is only found in the calendar of fools.",
+    "a": "Og Mandino",
+    "c": "48",
+    "h": "<blockquote>&ldquo;Tomorrow is only found in the calendar of fools.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>"
+    },
+    {
+    "q": "Do your duty and a little more and the future will take care of itself.",
+    "a": "Andrew Carnegie",
+    "c": "71",
+    "h": "<blockquote>&ldquo;Do your duty and a little more and the future will take care of itself.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>"
+    },
+    {
+    "q": "It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.",
+    "a": "Alan Watts",
+    "c": "112",
+    "h": "<blockquote>&ldquo;It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>"
+    },
+    {
+    "q": "Be not afraid of growing slowly, be afraid only of standing still. ",
+    "a": "Chinese Proverb",
+    "c": "67",
+    "h": "<blockquote>&ldquo;Be not afraid of growing slowly, be afraid only of standing still. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>"
+    },
+    {
+    "q": "There is nothing more truly artistic than to love people.",
+    "a": "Vincent van Gogh",
+    "c": "57",
+    "h": "<blockquote>&ldquo;There is nothing more truly artistic than to love people.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>"
+    },
+    {
+    "q": "Life is but one dream flowing into another.",
+    "a": "Ming-Dao Deng",
+    "c": "43",
+    "h": "<blockquote>&ldquo;Life is but one dream flowing into another.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>"
+    },
+    {
+    "q": "A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.",
+    "a": "James Allen",
+    "c": "169",
+    "h": "<blockquote>&ldquo;A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.&rdquo; &mdash; <footer>James Allen</footer></blockquote>"
+    },
+    {
+    "q": "Do not believe that you will reach your destination without leaving the shore. ",
+    "a": "Chinese Proverb",
+    "c": "79",
+    "h": "<blockquote>&ldquo;Do not believe that you will reach your destination without leaving the shore. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>"
+    },
+    {
+    "q": "I succeeded by saying what everyone else is thinking.",
+    "a": "Joan Rivers",
+    "c": "53",
+    "h": "<blockquote>&ldquo;I succeeded by saying what everyone else is thinking.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>"
+    },
+    {
+    "q": "Who wishes to fight must first count the cost.",
+    "a": "Sun Tzu",
+    "c": "46",
+    "h": "<blockquote>&ldquo;Who wishes to fight must first count the cost.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>"
+    },
+    {
+    "q": "If you quit once it becomes a habit.",
+    "a": "Michael Jordan",
+    "c": "36",
+    "h": "<blockquote>&ldquo;If you quit once it becomes a habit.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>"
+    },
+    {
+    "q": "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.",
+    "a": "Elbert Hubbard",
+    "c": "103",
+    "h": "<blockquote>&ldquo;One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>"
+    },
+    {
+    "q": "Change begets change. Nothing propagates so fast.",
+    "a": "Charles Dickens",
+    "c": "49",
+    "h": "<blockquote>&ldquo;Change begets change. Nothing propagates so fast.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>"
+    },
+    {
+    "q": "Our view of the world is truly shaped by what we decide to hear.",
+    "a": "William James",
+    "c": "64",
+    "h": "<blockquote>&ldquo;Our view of the world is truly shaped by what we decide to hear.&rdquo; &mdash; <footer>William James</footer></blockquote>"
+    },
+    {
+    "q": "By words the mind is winged.",
+    "a": "Aristophanes",
+    "c": "28",
+    "h": "<blockquote>&ldquo;By words the mind is winged.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>"
+    },
+    {
+    "q": "Every day passes whether you participate or not.",
+    "a": "Ming-Dao Deng",
+    "c": "48",
+    "h": "<blockquote>&ldquo;Every day passes whether you participate or not.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>"
+    },
+    {
+    "q": "Time you enjoy wasting, was not wasted.",
+    "a": "John Lennon",
+    "c": "39",
+    "h": "<blockquote>&ldquo;Time you enjoy wasting, was not wasted.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>"
+    },
+    {
+    "q": "Patience expands your options. If you insist on immediate gratification, your choices are severely limited.",
+    "a": "Ralph Marston",
+    "c": "107",
+    "h": "<blockquote>&ldquo;Patience expands your options. If you insist on immediate gratification, your choices are severely limited.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>"
+    },
+    {
+    "q": "You only live once, but if you do it right, once is enough.",
+    "a": "Mae West",
+    "c": "59",
+    "h": "<blockquote>&ldquo;You only live once, but if you do it right, once is enough.&rdquo; &mdash; <footer>Mae West</footer></blockquote>"
+    },
+    {
+    "q": "Boldness makes even the smallest animal dangerous.",
+    "a": "Robert Greene",
+    "c": "50",
+    "h": "<blockquote>&ldquo;Boldness makes even the smallest animal dangerous.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>"
+    },
+    {
+    "q": "Luck is a matter of preparation meeting opportunity.",
+    "a": "Oprah Winfrey",
+    "c": "52",
+    "h": "<blockquote>&ldquo;Luck is a matter of preparation meeting opportunity.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>"
+    },
+    {
+    "q": "The more you extend kindness to yourself, the more it will become your automatic response to others.",
+    "a": "Wayne Dyer",
+    "c": "100",
+    "h": "<blockquote>&ldquo;The more you extend kindness to yourself, the more it will become your automatic response to others.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>"
+    },
+    {
+    "q": "People should pursue what they're passionate about. That will make them happier than pretty much anything else.",
+    "a": "Elon Musk",
+    "c": "111",
+    "h": "<blockquote>&ldquo;People should pursue what they're passionate about. That will make them happier than pretty much anything else.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>"
+    },
+    {
+    "q": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "a": "Ralph Waldo Emerson",
+    "c": "87",
+    "h": "<blockquote>&ldquo;Do not go where the path may lead, go instead where there is no path and leave a trail.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>"
+    },
+    {
+    "q": "It is better to fail in originality than to succeed in imitation.",
+    "a": "Herman Melville",
+    "c": "65",
+    "h": "<blockquote>&ldquo;It is better to fail in originality than to succeed in imitation.&rdquo; &mdash; <footer>Herman Melville</footer></blockquote>"
+    },
+    {
+    "q": "Failure is an option here. If things are not failing, you are not innovating enough.",
+    "a": "Elon Musk",
+    "c": "84",
+    "h": "<blockquote>&ldquo;Failure is an option here. If things are not failing, you are not innovating enough.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>"
+    },
+    {
+    "q": "You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.",
+    "a": "Arnold Schwarzenegger",
+    "c": "94",
+    "h": "<blockquote>&ldquo;You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>"
+    },
+    {
+    "q": "Be brave to stand for what you believe in even if you stand alone.",
+    "a": "Roy T. Bennett",
+    "c": "66",
+    "h": "<blockquote>&ldquo;Be brave to stand for what you believe in even if you stand alone.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>"
+    },
+    {
+    "q": "Give so much away people insist on paying you.",
+    "a": "Jack Butcher",
+    "c": "46",
+    "h": "<blockquote>&ldquo;Give so much away people insist on paying you.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>"
+    },
+    {
+    "q": "To seek is to suffer. To seek nothing is bliss.",
+    "a": "Bodhidharma",
+    "c": "47",
+    "h": "<blockquote>&ldquo;To seek is to suffer. To seek nothing is bliss.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>"
+    },
+    {
+    "q": "Money poisons you when you've got it, and starves you when you haven't.",
+    "a": "D. H. Lawrence",
+    "c": "71",
+    "h": "<blockquote>&ldquo;Money poisons you when you've got it, and starves you when you haven't.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>"
+    },
+    {
+    "q": "Be mindful. Be grateful. Be positive. Be true. Be kind.",
+    "a": "Roy T. Bennett",
+    "c": "55",
+    "h": "<blockquote>&ldquo;Be mindful. Be grateful. Be positive. Be true. Be kind.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>"
+    },
+    {
+    "q": "Wise men speak because they have something to say; Fools because they have to say something.",
+    "a": "Plato",
+    "c": "92",
+    "h": "<blockquote>&ldquo;Wise men speak because they have something to say; Fools because they have to say something.&rdquo; &mdash; <footer>Plato</footer></blockquote>"
+    },
+    {
+    "q": "When you're the only sane person, you look like the only insane person.",
+    "a": "Criss Jami",
+    "c": "71",
+    "h": "<blockquote>&ldquo;When you're the only sane person, you look like the only insane person.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>"
+    },
+    {
+    "q": "Our greatest glory is not in never falling but in rising every time we fall.",
+    "a": "Confucius",
+    "c": "76",
+    "h": "<blockquote>&ldquo;Our greatest glory is not in never falling but in rising every time we fall.&rdquo; &mdash; <footer>Confucius</footer></blockquote>"
+    },
+    {
+    "q": "If we will be quiet and ready enough, we shall find compensation in every disappointment.",
+    "a": "Henry David Thoreau",
+    "c": "89",
+    "h": "<blockquote>&ldquo;If we will be quiet and ready enough, we shall find compensation in every disappointment.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>"
+    },
+    {
+    "q": "Success is getting what you want. Happiness is wanting what you get.",
+    "a": "Andrew Carnegie",
+    "c": "68",
+    "h": "<blockquote>&ldquo;Success is getting what you want. Happiness is wanting what you get.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>"
+    }
+    ]
